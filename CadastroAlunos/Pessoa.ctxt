@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment0.text=\r\n\ Classe\ para\ armazenar\ dados\ de\ uma\ pessoa\ (nome\ e\ idade).\ Utiliza\ a\ classe\ NomePessoa\ por\ composicao.\r\n\ \r\n\ @author\ Julio\ Arakaki\ \r\n\ @version\ 1.0\ 2026/03/23\r\n
+comment1.params=nome\ idade
+comment1.target=Pessoa(java.lang.String,\ int)
+comment1.text=\ \r\n\ Construtor\:\ constroi\ objeto\ Pessoa\ utilizando\ como\ nome\ a\ classe\ NomePessoa\r\n\ \r\n\ @param\ nome\ String\ com\ o\ nome\ da\ pessoa\ que\ ser\u00E1\ armazenado\r\n\ @param\ idade\ int\ com\ a\ idade\ da\ pessoa\ que\ ser\u00E1\ armazenado\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNomeBiblio()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Retorna\ os\ atributos\ como\ string\r\n
+numComments=4

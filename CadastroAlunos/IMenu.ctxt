@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=IMenu
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ IMenu\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=opcoes
+comment1.target=int\ criarMenu(java.lang.String[])
+comment1.text=\r\n\ An\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ the\ result\ produced\ by\ sampleMethod\r\n
+comment2.params=
+comment2.target=int\ pergQuantidade()
+comment3.params=ra
+comment3.target=java.lang.String\ inserirRA(java.lang.String)
+comment4.params=nome
+comment4.target=java.lang.String\ inserirNome(java.lang.String)
+comment5.params=idade
+comment5.target=int\ inserirIdade(int)
+comment6.params=curso
+comment6.target=java.lang.String\ inserirCurso(java.lang.String)
+comment7.params=semestre
+comment7.target=int\ inserirSemestre(int)
+comment8.params=ra
+comment8.target=java.lang.String\ removerRA(java.lang.String)
+numComments=9

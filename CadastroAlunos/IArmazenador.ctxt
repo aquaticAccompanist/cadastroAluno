@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=IArmazenador
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ IArmazenador\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a
+comment1.target=boolean\ inserir(Aluno)
+comment1.text=\r\n\ inserir\ -\ insere\ um\ aluno\ na\ estrutura\ de\ dados\r\n\r\n\ @param\ \ a\ -\ objeto\ aluno\ a\ ser\ inserido\ no\ armazenador\r\n\ @return\ boolean\ \ true\ -\ com\ sucesso,\ false\ -\ falha\ na\ inser\u00E7\u00E3o\r\n
+comment2.params=ra
+comment2.target=boolean\ remover(java.lang.String)
+comment2.text=\r\n\ remover\ -\ insere\ um\ aluno\ na\ estrutura\ de\ dados\r\n\r\n\ @param\ \ ra\ -\ String\ representando\ o\ ra\ do\ aluno\r\n\ @return\ boolean\ \ true\ -\ com\ sucesso,\ false\ -\ falha\ na\ remo\u00E7\u00E3o\r\n
+comment3.params=
+comment3.target=void\ listar()
+comment4.params=ra\ novoAluno
+comment4.target=boolean\ atualizar(java.lang.String,\ Aluno)
+numComments=5

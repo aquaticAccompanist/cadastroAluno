@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=MenuGrafico
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MenuTexto\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=opcoes
+comment1.target=int\ criarMenu(java.lang.String[])
+comment2.params=
+comment2.target=int\ pergQuantidade()
+comment3.params=ra
+comment3.target=java.lang.String\ inserirRA(java.lang.String)
+comment4.params=nome
+comment4.target=java.lang.String\ inserirNome(java.lang.String)
+comment5.params=semestre
+comment5.target=int\ inserirSemestre(int)
+comment6.params=idade
+comment6.target=int\ inserirIdade(int)
+comment7.params=curso
+comment7.target=java.lang.String\ inserirCurso(java.lang.String)
+comment8.params=ra
+comment8.target=java.lang.String\ removerRA(java.lang.String)
+numComments=9
